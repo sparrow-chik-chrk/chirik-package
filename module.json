@@ -1,0 +1,14 @@
+{
+  "id": "chirik-package",
+  "title": "Пакет ассетів для особистого використання",
+  "description": "<p>Пакет ассетів для особистого використання</p>",
+  "authors": [
+    {
+      "name": "Vorobushek UA",
+      "discord": "vorobushek_ua",
+      "email": "studnikovs@gmail.com",
+      "url": ""
+    }
+  ],
+  "version": "1.0.0"
+}
